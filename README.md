@@ -6,8 +6,7 @@
 <strong>ArewaDS Official Website:</strong> <a href="https://arewadatascience.github.io">https://arewadatascience.github.io</a>
 </p>
 
----
-
+--
 # 📘 ArewaDS Python for Beginners - Cohort 3.0
 
 Welcome to the Arewa Data Science Academy Python Programming Fellowship. This comprehensive, free program aims to equip aspiring data scientists and machine learning engineers with essential Python skills. A strong foundation in Python programming will significantly enhance your ability to learn data science and machine learning effectively.
@@ -170,3 +169,5 @@ Each student must complete all the project in this course
 ---
 
 We’re excited to have you on board and can’t wait to see all the amazing things you’ll accomplish!
+
+For doing all these, i comment your effort Doc!!!
