@@ -1,3 +1,4 @@
+
 <p align="center">
     <img src="assets/arewadsimage.png" alt="ArewaDS Python for Beginners - Cohort 3.0">
 </p>
@@ -8,7 +9,7 @@
 
 ---
 
-# 📘 ArewaDS Python for Beginners - Cohort 3.0
+# 📘 ArewaDS Python for Beginners --- Cohort 3.0 
 
 Welcome to the Arewa Data Science Academy Python Programming Fellowship. This comprehensive, free program aims to equip aspiring data scientists and machine learning engineers with essential Python skills. A strong foundation in Python programming will significantly enhance your ability to learn data science and machine learning effectively.
 
@@ -45,7 +46,7 @@ Applications for Cohort 3.0 have now closed, but you can still access our materi
 
 ## 🌐 Contact & Community
 
-- 📺 [Python Programming YouTube Playlist](#)
+- 📺 [Python Programming YouTube Playlist](https://www.youtube.com/playlist?list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY)
 - 🌐 Website: [Arewa Data Science Official Website](https://arewadatascience.github.io/)
 - 📧 Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - Follow us on:
@@ -84,13 +85,13 @@ However, for each stage we will provide certificate of completion.
 
 Find the list of accepted fellows, mentor details, recording of the kickoff event, and the slides used during the presentation below.
 
-| Component                   | Resource                                                  |
-| --------------------------- | --------------------------------------------------------- |
-| Accepted Fellows Page       | [Visit the Accepted Fellows Page](#)                      |
-| Mentors        | [Check our Mentors list](#)                                   |
-| Communication (Telegram)    | [How to use Arewa Data Science Telegram Group](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)         |
-| Kickoff Recording           | [Link to Recording](https://www.youtube.com/watch?v=J5wv6no8IYA&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=2&t=4s)                                    |
-| Kickoff Slides              | [Link to Slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=true&loop=true&delayms=10000&slide=id.p1)                                       |
+| Component                | Resource                                                                                                                                                                                             |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Accepted Fellows Page    | [Visit the Accepted Fellows Page](#)                                                                                                                                                                 |
+| Mentors                  | [Check our Mentors list](#)                                                                                                                                                                          |
+| Communication (Telegram) | [How to use Arewa Data Science Telegram Group](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/telegram.md)                                           |
+| Kickoff Recording        | [Link to Recording](https://www.youtube.com/watch?v=J5wv6no8IYA&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=2&t=4s)                                                                                |
+| Kickoff Slides           | [Link to Slides](https://docs.google.com/presentation/d/e/2PACX-1vTz8P0kreFLhUhseaF-ipdN_iIi4AvWx8y_jVjRqrzhgt_zIKjWrqEOJf7q-RbP5dLIVrFCLZNwH8zt/pub?start=true&loop=true&delayms=10000&slide=id.p1) |
 
 ---
 
@@ -99,62 +100,83 @@ Find the list of accepted fellows, mentor details, recording of the kickoff even
 In this initial part, we’ll guide you through the essential tools needed for data science and machine learning, including installing VSCode, Jupyter Notebooks, Python virtual environments, Git for version control, GitHub for collaboration, Markdown, and creating a Medium blog post.
 
 
-| Title                         | Resource                                                                                           | Recording                                                                                            | Mentor                                             |
-| ----------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| Initial Setup                 | [MacOS](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Stage-1-Getting-Started/macOS.md) \| [Windows](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Stage-1-Getting-Started/WINDOWS.md) \| [Linux](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Stage-1-Getting-Started/LINUX.md#set-up-instructions-for-linux) | [Tutorial](https://www.youtube.com/watch?v=bRW5r7TK6KM) | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
-| Blogging using Medium         | [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd)    |        [Recording](https://youtu.be/Gt2D2eNWpxI)                                                           | Lukman                                              |
-| Basic Command Line Operations | [CommandLine](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/commandline.md)                                                                                   | [Recording1](https://youtu.be/VgiP2-pHF3Y?si=GGHw1JEuMmhVHaYU)\| [Recording2](https://www.youtube.com/watch?v=Nq-962yO_6s&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=4)                                      | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) \| Falalu |
-| Setup Git and GitHub          | [Git/GitHub](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/github.md)                                                                                   | [Recording1](https://www.youtube.com/watch?v=FN4J5wHK898&t=187s&ab_channel=ArewaDataScienceAcademy)  \| [Recording2](https://youtu.be/LfPFdQ4DinM)                                                                | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) \| Falalu |
-| Python Virtual Environments   | [Virtual Environment](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/python-venv.`md)                                                                          | [Recording](https://youtu.be/iszkG8QSPng?si=iQMsqoaxHiafgHiA)                                       | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
-| VSCode for Data Science       | [VSCode for DS](https://github.com/arewadataScience/ArewaDS-Machine-Learning/blob/main/Stage-1-Getting-Started/vscode.md)                                                                                | [Recording](https://www.youtube.com/watch?v=pmUkRRqtpEY)                                            | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
-| Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/python-programming-fellowship//blob/main/Stage-1-Getting-Started/markdown.md)                                                                                     | [Recording](https://www.youtube.com/watch?v=oNwEag0eqwE)                                            | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) |
-| Customizing GitHub Profile    | [Customizing Profile](https://docs.google.com/presentation/d/1-CtWlgh7c1j5cBVKZiFlaMCYP3O_KcqwYDm6dbkiFdc/edit#slide=id.p)                                                                                                      | [Recording](https://www.youtube.com/watch?v=oXEUbZ9m3SE)                                           | [Lukman]()                                           |
-| Google Colab                  | [Google Colab](#)                                                                                 | [Recording](https://youtu.be/3P5PgSzHPmI?si=G5PJlkd0CrlVfLiN)                                      | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) |
+| Title                         | Resource                                                                                                                                                                                                                                                                                                                                                                                                  | Recording                                                                                                                                                                  | Mentor                                                        |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Initial Setup                 | [MacOS](https://github.com/arewadataScience/python-programming-fellowship/blob/main/00_Stage-1-Getting-Started/macOS.md) \| [Windows](https://github.com/arewadataScience/python-programming-fellowship/blob/main/00_Stage-1-Getting-Started/WINDOWS.md) \| [Linux](https://github.com/arewadataScience/python-programming-fellowship/blob/main/00_Stage-1-Getting-Started/LINUX.md#set-up-instructions-for-linux) | [Tutorial](https://www.youtube.com/watch?v=bRW5r7TK6KM)                                                                                                                    | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)           |
+| Blogging using Medium         | [How to write Medium Article](https://medium.com/@shmuhammadd/how-to-write-a-great-medium-article-f26065b98dcd)                                                                                                                                                                                                                                                                                           | [Recording](https://youtu.be/Gt2D2eNWpxI)                                                                                                                                  | Lukman                                                        |
+| Basic Command Line Operations | [CommandLine](https://github.com/arewadataScience/python-programming-fellowship//blob/main/00_Stage-1-Getting-Started/commandline.md)                                                                                                                                                                                                                                                                        | [Recording1](https://youtu.be/VgiP2-pHF3Y?si=GGHw1JEuMmhVHaYU)\| [Recording2](https://www.youtube.com/watch?v=Nq-962yO_6s&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=4) | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) \| Falalu |
+| Setup Git and GitHub          | [Git/GitHub](https://github.com/arewadataScience/python-programming-fellowship/blob/main/00_Stage-1-Getting-Started/github.md)                                                                                                                                                                                                                                                                              | [Recording1](https://www.youtube.com/watch?v=FN4J5wHK898&t=187s&ab_channel=ArewaDataScienceAcademy)  \| [Recording2](https://youtu.be/LfPFdQ4DinM)                         | [Dr. Idris](https://www.linkedin.com/in/abumafrim/) \| Falalu |
+| Python Virtual Environments   | [Virtual Environment](https://github.com/arewadataScience/python-programming-fellowship//blob/main/00_Stage-1-Getting-Started/python-venv.md)                                                                                                                                                                                                                                                               | [Recording](https://youtu.be/iszkG8QSPng?si=iQMsqoaxHiafgHiA)                                                                                                              | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)    |
+| VSCode for Data Science       | [VSCode for DS](https://github.com/arewadataScience/python-programming-fellowship/blob/main/00_Stage-1-Getting-Started/vscode.md)                                                                                                                                                                                                                                                                                 | [Recording](https://www.youtube.com/watch?v=pmUkRRqtpEY)                                                                                                                   | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)    |
+| Introduction to Markdown      | [Markdown](https://github.com/arewadataScience/python-programming-fellowship//blob/main/00_Stage-1-Getting-Started/markdown.md)                                                                                                                                                                                                                                                                              | [Recording](https://www.youtube.com/watch?v=oNwEag0eqwE)                                                                                                                   | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)    |
+| Customizing GitHub Profile    | [Customizing Profile](https://docs.google.com/presentation/d/1-CtWlgh7c1j5cBVKZiFlaMCYP3O_KcqwYDm6dbkiFdc/edit#slide=id.p)                                                                                                                                                                                                                                                                                | [Recording](https://www.youtube.com/watch?v=oXEUbZ9m3SE)                                                                                                                   | [Lukman]()                                                    |
+| Google Colab                  | [Google Colab](#)                                                                                                                                                                                                                                                                                                                                                                                         | [Recording](https://youtu.be/3P5PgSzHPmI?si=G5PJlkd0CrlVfLiN)                                                                                                              | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)           |
 
 
 
 ### 📝 Assignments: Setup and Installation
 
-| Assignment Name                          | Link to Assignment                                                   |
-| ---------------------------------------- | --------------------------------------------------------------------- |
-| Getting Started with Medium                  | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)                           |
-| GitHub Fundamentals                      | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md)  
-| GitHub Profile                    | [Customize your Proile](#) |
+| Assignment Name             | Link to Assignment                                                                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Getting Started with Medium | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)         |
+| GitHub Fundamentals         | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md) |
+| GitHub Profile              | [Customize your Proile](#)                                                                                                                       |
+
 
 
 ---
 
 ## 🐍 Python Programming
 
-### 📑 Python Basics & Data Structures
 
-- 🔗 [Introduction](#)
-- 🔗 [Variables & Built-in Functions](#)
-- 🔗 [Operators](#)
-- 🔗 [Strings](#)
-- 🔗 [Lists, Tuples, and Sets](#)
-- 🔗 [Dictionaries](#)
+- Reference Book: **Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming**
+- Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
+- [ArewaDS 30-days of Python Programming Repo](https://github.com/arewadataScience/30-Days-of-Python) - We will be using the exercises from this repository in this course.
+- Here is an example of [Assignment Repository](https://github.com/arewadataScience/arewads-python-exercises). We also give an example in the first folder. You can either use `JupyterNotebook` or `Python Script`.
 
-### 🔄 Control Flow & Functions
 
-- 🔗 [Conditionals](#)
-- 🔗 [Loops](#)
-- 🔗 [Functions & List Comprehension](#)
-- 🔗 [Higher-Order Functions](#)
 
-### ⚙️ Advanced Python Concepts
+| Week | Date      | Topic                                                                                          | Session Recording              | Mentor                                         | Exercises |
+|------|-----------|------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------|-----------|
+| 1    | 16/11/2024   | [Getting Started (Introduction to Python, setting up the environment, running the first program)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter1.ipynb). | [Recording](https://youtu.be/1_AOqZM28ww) | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | -       |
+|      |  23/11/2024  | [Variables and Simple Data Types (Variables, data types, input/output)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter2.ipynb)                         | [Recording](https://youtu.be/tXt9L85x_9s)  | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | [Module 2,3,and 4 Exercises ](https://github.com/arewadataScience/30-Days-of-Python/blob/main/02_Module_Variables_builtin_functions/02_variables_builtin_functions.md)     |
+| 2    | 24/11/2024  | [Introducing Lists (Creating and accessing lists, modifying lists)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter3.ipynb)                             | [Recording](https://youtu.be/PJVg0HtJA88)  | Falalu                                         | [Module 5 List exercises](https://github.com/arewadataScience/30-Days-of-Python/blob/main/05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)     |
+|      | -     | Working with Lists (Looping through lists, modifying elements).                                | -                              | -                                             | [Module 5 Tuple and Set exercises](https://github.com/arewadataScience/30-Days-of-Python/blob/main/05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)       |
+| 3    | -  | if Statements (Conditional tests, `if-elif-else` structures, boolean expressions).             | -                              | -                                             | TBD       |
+|      | -    | Dictionaries (Creating and using dictionaries, basic operations, looping through dictionaries). | -                              | -                                             | TBD       |
+| 4    | -  | User Input and while Loops (Handling user input, `while` loops, break and continue statements). | -                              | -                                             | TBD       |
+|      | -    | Functions (Defining functions, arguments, return values, and passing lists to functions).       | -                              | -                                             | TBD       |
+| 5    | -  | Classes (Defining classes, attributes, methods, and working with objects).                     | -                              | -                                             | TBD       |
+|      | -    | Continuation (Inheritance and more complex class structures with exercises).                   | -                              | -                                             | TBD       |
+| 6    | -  | Files and Exceptions (Reading/writing files, basic file operations).                           | -                              | -                                             | TBD       |
+|      | -    | Testing Your Code (Introduction to unit testing, writing tests for functions and classes).      | -                              | -                                             | TBD       |
+| 7    | -  | NumPy Introduction (Creating arrays, basic operations, mathematical computations).             | -                              | -                                             | TBD       |
+|      | -    | Advanced NumPy (Array indexing, slicing, reshaping, and hands-on exercises).                   | -                              | -                                             | TBD       |
+| 8    | -  | Pandas Basics (Understanding Series and DataFrames, data loading).                             | -                              | -                                             | TBD       |
+|      | -    | Advanced Pandas (Data cleaning, exploratory data analysis, and practice with real-world datasets). | -                              | -                                             | TBD       |
 
-- 🔗 [Type Errors & Exception Handling](#)
-- 🔗 [Regular Expressions](#)
-- 🔗 [DateTime & File Handling](#)
-- 🔗 [Modules & Virtual Environment](#)
 
-### 📊 Python for Data Science
 
-- 🔗 [Package Management](#)
-- 🔗 [Classes and Objects](#)
-- 🔗 [Web Scraping & APIs](#)
-- 🔗 [Statistics, NumPy, and Pandas](#)
+
+
+
+
+
+
+## 🐍 Python Projects
+
+
+| Project  | Project Title                              | Description                                                                 |
+|-----------|---------------------------------------------|-----------------------------------------------------------------------------|
+| 4         | Generating Data                            | Work on generating and visualizing data using various Python libraries.     |
+| 5         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
+| 6         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
+
+### Note:
+Each student must complete all the project in this course
+
+
+
 
 ---
 
