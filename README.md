@@ -9,7 +9,20 @@
 
 ---
 
-# 📘 ArewaDS Python for Beginners --- Cohort 3.0 
+## Reputations
+
+1. [![GitHub forks](https://img.shields.io/github/forks/arewadatascience/ArewaDS-Machine-Learning?style=social&label=ArewaDS%20Machine%20Learning%20Repo%20Forks)](https://github.com/arewadataScience/ArewaDS-Machine-Learning)
+2. [![GitHub forks](https://img.shields.io/github/forks/arewadatascience/30-Days-of-Python?style=social&label=ArewaDS%2030%20Days%20of%20Python%20Repo%20Forks)](https://github.com/arewadataScience/30-Days-of-Python)
+3. [![GitHub forks](https://img.shields.io/github/forks/arewadatascience/python-programming-fellowship?style=social&label=ArewaDS%20Python%20Programming%20Fellowship)](https://github.com/arewadataScience/python-programming-fellowship)
+4. [![GitHub forks](https://img.shields.io/github/forks/arewadatascience/ArewaDS-Deep-Learning?style=social&label=ArewaDS%20Deep%20Learning%20Fellowship)
+](https://github.com/arewadataScience/ArewaDS-Deep-Learning)
+5. ![GitHub Repo stars](https://img.shields.io/github/stars/arewadataScience/30-Days-of-Python?label=GitHub%20Repo%20Stars)
+6. [![GitHub followers](https://img.shields.io/github/followers/arewadatascience?label=ArewaDS%20Github%20Followers)
+](https://github.com/arewadataScience)
+
+7. [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCE4W31LFT6qDSUhnjn6YlKw?label=ArewaDS%20YouTube%20Channel%20Views)](https://www.youtube.com/@arewadatascienceacademy7195)
+
+# 1. 📘 ArewaDS Python for Beginners --- Cohort 3.0
 
 Welcome to the Arewa Data Science Academy Python Programming Fellowship. This comprehensive, free program aims to equip aspiring data scientists and machine learning engineers with essential Python skills. A strong foundation in Python programming will significantly enhance your ability to learn data science and machine learning effectively.
 
@@ -17,48 +30,46 @@ This course is designed around hands-on, bite-sized exercises inspired by "Atomi
 
 ---
 
-## 🗂 Table of Contents
+## 1.1. 🗂 Table of Contents
 
 - **📘 [ArewaDS Python for Beginners - Cohort 3.0](#-arewads-python-for-beginners---cohort-30)**
 - **🗂 [Table of Contents](#-table-of-contents)**
-    - **💡 [Interested in Joining the Fellowship?](#-interested-in-joining-the-fellowship)**
-    - **🌐 [Contact & Community](#-contact--community)**
+  - **💡 [Interested in Joining the Fellowship?](#-interested-in-joining-the-fellowship)**
+  - **🌐 [Contact & Community](#-contact--community)**
 - **🎉 [Welcome to Cohort 3.0 ArewaDS Fellowship](#-welcome-to-cohort-30-arewads-fellowship)**
-    - **🎓 [Graduation Requirements](#-graduation-requirements)**
-    - **🎥 [Fellowship Kickoff](#-fellowship-kickoff)**
+  - **🎓 [Graduation Requirements](#-graduation-requirements)**
+  - **🎥 [Fellowship Kickoff](#-fellowship-kickoff)**
 - **🛠 [Setup and Installation](#-setup-and-installation)**
-    - **Setup Guide**
+  - **Setup Guide**
 - **🐍 [Python Programming](#-python-programming)**
-    - **📑 [Python Basics & Data Structures](#-python-basics--data-structures)**
-    - **🔄 [Control Flow & Functions](#-control-flow--functions)**
-    - **⚙️ [Advanced Python Concepts](#-advanced-python-concepts)**
-    - **📊 [Python for Data Science](#-python-for-data-science)**
-
-
+  - **📑 [Python Basics & Data Structures](#-python-basics--data-structures)**
+  - **🔄 [Control Flow & Functions](#-control-flow--functions)**
+  - **⚙️ [Advanced Python Concepts](#-advanced-python-concepts)**
+  - **📊 [Python for Data Science](#-python-for-data-science)**
 
 ---
 
-## 💡 Interested in Joining the Fellowship?
+## 1.2. 💡 Interested in Joining the Fellowship?
 
 Applications for Cohort 3.0 have now closed, but you can still access our materials for self-study. Stay updated on future cohorts by following us on social media and joining our Telegram group for regular updates and fellowship insights.
 
 ---
 
-## 🌐 Contact & Community
+## 1.3. 🌐 Contact & Community
 
 - 📺 [Python Programming YouTube Playlist](https://www.youtube.com/playlist?list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY)
 - 🌐 Website: [Arewa Data Science Official Website](https://arewadatascience.github.io/)
 - 📧 Email: [arewadatascience@gmail.com](mailto:arewadatascience@gmail.com)
 - Follow us on:
-    - [Twitter](https://twitter.com/arewadatascience)
-    - [Facebook](https://www.facebook.com/arewadatascience)
-    - [LinkedIn](https://www.linkedin.com/company/arewadatascience)
-    - [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos)
-    - [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
+  - [Twitter](https://twitter.com/arewadatascience)
+  - [Facebook](https://www.facebook.com/arewadatascience)
+  - [LinkedIn](https://www.linkedin.com/company/arewadatascience)
+  - [YouTube](https://www.youtube.com/@arewadatascienceacademy7195/videos)
+  - [Telegram](https://t.me/+vGZvQdggp1A4NzNk)
 
 ---
 
-## 🎉 Welcome to Cohort 3.0 ArewaDS Fellowship
+## 1.4. 🎉 Welcome to Cohort 3.0 ArewaDS Fellowship
 
 Whether you're just starting or deepening your skills, our fellowship offers a structured path to master Python fundamentals and beyond. The fellowship has three main stages:
 
@@ -68,7 +79,7 @@ Whether you're just starting or deepening your skills, our fellowship offers a s
 
 ---
 
-### 🎓 Graduation Requirements
+### 1.4.1. 🎓 Graduation Requirements
 
 To graduate from the Arewa Data Science and Machine Learning Fellowship, fellows must meet the following criteria:
 
@@ -81,7 +92,7 @@ However, for each stage we will provide certificate of completion.
 
 ---
 
-### 🎥 Fellowship Kickoff
+### 1.4.2. 🎥 Fellowship Kickoff
 
 Find the list of accepted fellows, mentor details, recording of the kickoff event, and the slides used during the presentation below.
 
@@ -95,10 +106,9 @@ Find the list of accepted fellows, mentor details, recording of the kickoff even
 
 ---
 
-## 🛠 Setup and Installation
+## 1.5. 🛠 Setup and Installation
 
 In this initial part, we’ll guide you through the essential tools needed for data science and machine learning, including installing VSCode, Jupyter Notebooks, Python virtual environments, Git for version control, GitHub for collaboration, Markdown, and creating a Medium blog post.
-
 
 | Title                         | Resource                                                                                                                                                                                                                                                                                                                                                                                                  | Recording                                                                                                                                                                  | Mentor                                                        |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
@@ -112,34 +122,27 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | Customizing GitHub Profile    | [Customizing Profile](https://docs.google.com/presentation/d/1-CtWlgh7c1j5cBVKZiFlaMCYP3O_KcqwYDm6dbkiFdc/edit#slide=id.p)                                                                                                                                                                                                                                                                                | [Recording](https://www.youtube.com/watch?v=oXEUbZ9m3SE)                                                                                                                   | [Lukman]()                                                    |
 | Google Colab                  | [Google Colab](#)                                                                                                                                                                                                                                                                                                                                                                                         | [Recording](https://youtu.be/3P5PgSzHPmI?si=G5PJlkd0CrlVfLiN)                                                                                                              | [Dr. Idris](https://www.linkedin.com/in/abumafrim/)           |
 
-
-
-### 📝 Assignments: Setup and Installation
+### 1.5.1. 📝 Assignments: Setup and Installation
 
 | Assignment Name             | Link to Assignment                                                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Getting Started with Medium | [Getting Started with Medium ](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)         |
+| Getting Started with Medium | [Getting Started with Medium](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/Medium_blogpost.md)         |
 | GitHub Fundamentals         | [GitHub Fundamentals Assignment](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Assigment/GitHub%20Fundamentals.md) |
 | GitHub Profile              | [Customize your Proile](#)                                                                                                                       |
 
-
-
 ---
 
-## 🐍 Python Programming
-
+## 1.6. 🐍 Python Programming
 
 - Reference Book: **Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming**
 - Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
 - [ArewaDS 30-days of Python Programming Repo](https://github.com/arewadataScience/30-Days-of-Python) - We will be using the exercises from this repository in this course.
 - Here is an example of [Assignment Repository](https://github.com/arewadataScience/arewads-python-exercises). We also give an example in the first folder. You can either use `JupyterNotebook` or `Python Script`.
 
-
-
 | Week | Date      | Topic                                                                                          | Session Recording              | Mentor                                         | Exercises |
 |------|-----------|------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------|-----------|
 | 1    | 16/11/2024   | [Getting Started (Introduction to Python, setting up the environment, running the first program)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter1.ipynb). | [Recording](https://youtu.be/1_AOqZM28ww) | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | -       |
-|      |  23/11/2024  | [Variables and Simple Data Types (Variables, data types, input/output)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter2.ipynb)                         | [Recording](https://youtu.be/tXt9L85x_9s)  | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | [Module 2,3,and 4 Exercises ](https://github.com/arewadataScience/30-Days-of-Python/blob/main/02_Module_Variables_builtin_functions/02_variables_builtin_functions.md)     |
+|      |  23/11/2024  | [Variables and Simple Data Types (Variables, data types, input/output)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter2.ipynb)                         | [Recording](https://youtu.be/tXt9L85x_9s)  | [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/) | [Module 2,3,and 4 Exercises](https://github.com/arewadataScience/30-Days-of-Python/blob/main/02_Module_Variables_builtin_functions/02_variables_builtin_functions.md)     |
 | 2    | 24/11/2024  | [Introducing Lists (Creating and accessing lists, modifying lists)](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter3.ipynb)                             | [Recording](https://youtu.be/PJVg0HtJA88)  | Falalu                                         | [Module 5 List exercises](https://github.com/arewadataScience/30-Days-of-Python/blob/main/05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)     |
 |      | -     | [Working with Lists (Looping through lists, modifying elements](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter4.ipynb)                                |  [Rec1](https://www.youtube.com/watch?v=VfsrxC_KFoo&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=5) \| [Rec2](https://www.youtube.com/watch?v=S8nlIfOstgA&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=4)  \| [Rec3](https://www.youtube.com/watch?v=jddDjeq9C30&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=3)                      | Falalu                                           | [Module 5 Tuple and Set exercises](https://github.com/arewadataScience/30-Days-of-Python/blob/main/05_Module_Lists_Tuples_Sets/05_lists_tuples_sets.md)       |
 | 3    | -  | [if Statements (Conditional tests, `if-elif-else` structures, boolean expressions](https://github.com/arewadataScience/python-programming-fellowship/blob/main/02_Python-Lessons/chapter5.ipynb)             | [Recording](https://www.youtube.com/watch?v=UjuzaHtTdZk&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=2)                              | Falalu                                             | [Conditions](https://github.com/arewadataScience/30-Days-of-Python/blob/main/07_Module_Conditionals/07_conditionals.md)      |
@@ -149,14 +152,7 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | 5    | -  | Classes (Defining classes, attributes, methods, and working with objects).                     | [Recording](https://www.youtube.com/watch?v=NHwOgJL2s2Q&list=PLf4vs1mkrux0UEXt4tk7TUb5LeO7LweRY&index=1)                          | -                                             | [Classes](https://github.com/arewadataScience/30-Days-of-Python/blob/main/16_Module_Classes_and_objects/16_classes_and_objects.md)     | Falalu
 | 6    | -  | Files and Exceptions (Reading/writing files, basic file operations).                           | -                              | -                                             | [Date and File Handling](https://github.com/arewadataScience/30-Days-of-Python/blob/main/13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md)       |
 
-
-
-
-
-
-
-## 🐍 Python Projects
-
+## 1.7. 🐍 Python Projects
 
 | Project  | Project Title                              | Description                                                                 |
 |-----------|---------------------------------------------|-----------------------------------------------------------------------------|
@@ -164,12 +160,17 @@ In this initial part, we’ll guide you through the essential tools needed for d
 | 2         | Downloading Data                           | Create a project focused on downloading, processing, and visualizing data.  |
 | 3         | Working with APIs                          | Integrate data from APIs and develop a project that uses external data sources. |
 
-### Note:
+### 1.7.1. Note
+
 Each student must complete all the project in this course
-
-
-
 
 ---
 
 We’re excited to have you on board and can’t wait to see all the amazing things you’ll accomplish!
+
+### 1.7.2. Follow Arewa Data Science Academy
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/arewadatascience)            [![ArewaDWebsite](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://arewadatascience.github.io)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](arewadatascience@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/arewadatascience)
